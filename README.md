@@ -1,4 +1,4 @@
-# Projects
+# About model
 - The system is designed for optimum energy usage by monitoring the number of people present in the room. The electric loads are switched on as soon as someone is present in the room and switches of on detecting no presence.
 
 
